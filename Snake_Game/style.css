@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#gameContainer {
+    display: inline-block;
+    position: relative;
+}
+
+canvas {
+    background-color: #000;
+    display: block;
+    margin: 20px auto;
+}
+
+#gameStats {
+    text-align: left;
+    margin: 10px auto;
+}
+
+#gameHistory {
+    margin-top: 30px;
+}
+
+.game-info {
+    margin-bottom: 20px;
+}
